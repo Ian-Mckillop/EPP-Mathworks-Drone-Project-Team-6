@@ -7,7 +7,7 @@ The goal of this project was to design two arms and maximize the payload capacit
 1. A thrust-to-weight analysis to ensure our drone arms can withstand a max payload
 2. Finite Element Analysis (FEA) to determine the effects of displacement, stress, and factor of safety under the motor and payload loads.
 
-Out of our two drone arm designs, our TArm Design using Birch was the most effective. It achieves a max payload of ** 0.96 kg **.
+Out of our two drone arm designs, our TArm Design using Birch was the most effective. It achieves a max payload of **0.96 kg**.
 
 ## Repository Content
 
