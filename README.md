@@ -1,5 +1,5 @@
 # Drone Payload Capacity and Structural Design Analysis Project
-Team 6 - JINB Drone Makers
+Team 6 - JOOP Drone Makers
 
 ## Objective
 The goal of this project was to design two arms and maximize the payload capacity while maintaining the minimum structural integrity. We were provided with various materials and parameters to determine the following things:
