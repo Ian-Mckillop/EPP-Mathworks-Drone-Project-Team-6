@@ -25,11 +25,11 @@ Out of our two drone arm designs, our TArm Design using Birch was the most effec
 
 ## How to Run
 
-1. Clone this repository.
-2. Open MATLAB and set the repository folder as your current working
-   directory.
-3. Open the Final Live Script in MATLAB.
-4. Run the Live Script. This will provide you with the thrust-to-weight analysis and FEA for both designs. 
+1. Clone this repository in Matlab.
+2. Select the repository folder, add it and it's subfolders to the Path.
+3. Open the Final Live Script (FinalDroneProjectLiveScript.mlx) in MATLAB.
+4. Run the Live Script. This will provide you with the thrust-to-weight analysis and FEA for both designs,
+   along with many visualizations of that data. 
 
 ## Design Summary
 
