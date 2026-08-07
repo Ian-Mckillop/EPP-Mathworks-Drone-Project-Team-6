@@ -38,6 +38,6 @@ Out of our two drone arm designs, our TArm Design using Birch was the most effec
 | Tube Arm | Birch | 0.92 kg | 5.0e+06 | 16 |
 | T Arm | Birch | 0.96 kg | 1.53e+07 | 5.2 |
 
-![Alt text](https://github.com/Ian-Mckillop/EPP-Mathworks-Drone-Project-Team-6/blob/main/Images/BirchTArmFEAVisualization.png)
+![Birch T Arm](https://github.com/Ian-Mckillop/EPP-Mathworks-Drone-Project-Team-6/blob/main/Images/BirchTArmFEAVisualization.png)
 
-![Alt text](https://github.com/Ian-Mckillop/EPP-Mathworks-Drone-Project-Team-6/blob/main/Images/BirchTubeArmFEAVisualization.png)
+![Birch Tube Arm](https://github.com/Ian-Mckillop/EPP-Mathworks-Drone-Project-Team-6/blob/main/Images/BirchTubeArmFEAVisualization.png)
