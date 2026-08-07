@@ -13,9 +13,11 @@ Out of our two drone arm designs, our TArm Design using Birch was the most effec
 
 | File/Folder | Description |
 |---|---|
+| Docs | Contains PDF format of our Final Live Script |
+| Drafts | A folder containing our testing and different live scripts we coded in |
+| Images | Includes more images of our CAD designs |
 | Matlab Scripts | MATLAB code for thrust-to-weight analysis and FEA |
-| Drone Arm (Tube).stl | CAD model for Tube arm design |
-| TArmCAD.stl | CAD model for T-arm design |
+| Models | CAD model for Tube Arm Design and T-Arm Design |
 | Teamwork Agreement | Team roles and working agreement |
 
 ## Required Toolboxes / Dependencies
